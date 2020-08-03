@@ -28,5 +28,8 @@ https://github.com/GoogleCloudPlatform/google-auth-library-python/blob/master/go
 ## Dependencies
 Google Cloud SDK (optional)
 
+## Author
+Nao Yonashiro (@orisano)
+
 ## License
 MIT
