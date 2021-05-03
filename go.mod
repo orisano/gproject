@@ -1,9 +1,10 @@
 module github.com/orisano/gproject
 
+go 1.16
+
 require (
-	cloud.google.com/go v0.30.0 // indirect
-	golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1 // indirect
-	golang.org/x/oauth2 v0.0.0-20181003184128-c57b0facaced
-	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f // indirect
-	google.golang.org/appengine v1.2.0 // indirect
+	cloud.google.com/go v0.81.0 // indirect
+	github.com/golang/protobuf v1.5.2 // indirect
+	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420 // indirect
+	golang.org/x/oauth2 v0.0.0-20210427180440-81ed05c6b58c
 )
