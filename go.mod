@@ -3,6 +3,7 @@ module github.com/orisano/gproject
 go 1.16
 
 require (
-	golang.org/x/net v0.0.0-20220708220712-1185a9018129 // indirect
-	golang.org/x/oauth2 v0.0.0-20220630143837-2104d58473e0
+	cloud.google.com/go/compute v1.10.0 // indirect
+	golang.org/x/net v0.0.0-20221004154528-8021a29435af // indirect
+	golang.org/x/oauth2 v0.0.0-20221006150949-b44042a4b9c1
 )
