@@ -3,6 +3,7 @@ module github.com/orisano/gproject
 go 1.16
 
 require (
-	cloud.google.com/go/compute v1.18.0 // indirect
-	golang.org/x/oauth2 v0.4.0
+	cloud.google.com/go/compute v1.23.1 // indirect
+	golang.org/x/oauth2 v0.13.0
+	google.golang.org/appengine v1.6.8 // indirect
 )
