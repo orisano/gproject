@@ -1,9 +1,12 @@
 module github.com/orisano/gproject
 
-go 1.16
+go 1.21
+
+toolchain go1.23.0
+
+require golang.org/x/oauth2 v0.25.0
 
 require (
-	cloud.google.com/go/compute/metadata v0.5.0 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
-	golang.org/x/oauth2 v0.21.0
+	cloud.google.com/go/compute/metadata v0.6.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
 )
